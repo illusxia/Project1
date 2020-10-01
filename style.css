@@ -1,3 +1,4 @@
+.clearfix::before,
 .clearfix::after {
   content: "";
   clear: both;
@@ -28,14 +29,22 @@ a {
 i {
   font-size: 14px;
 }
-
+p{
+  margin-top: 0;
+  margin-bottom: relative;
+  padding-top:0;
+  padding-bottom:
+}
 h1,
 .contact {
   text-align: right;
   margin: 0;
+  
 }
 
-
+h1{
+  font-size: x-large;
+}
 
 .edu {
   margin: 5%;
