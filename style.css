@@ -12,42 +12,51 @@ body {
   color: grey;
 }
 
-h1,
-.contact {
-  margin-bottom: 0px;
-  text-align: right;
-}
-
-.edu {
-  margin: 20px;
-  margin-bottom: 40px;
-  float: left;
-}
-
-.expert,
-.int {
-  margin: 30px,0;
-  padding: auto;
-  text-align: right;
-
+h2,
+h3,
+b {
+  color: black;
+  margin-top: 5%;
+  padding-top: 0;
 }
 
 a {
   color: black;
 }
 
-h2,
-h3,
-b {
-  color: black;
-  margin-top: 0;
-  padding-top: 0;
-}
-
 i {
   font-size: 14px;
 }
-.exp{
-  margin:20px;
-  
+
+h1,
+.contact {
+  text-align: right;
+  margin: 0;
+}
+
+h1 {}
+
+.edu {
+  margin: 5%;
+  float: left;
+}
+
+.expert,
+.int {
+  margin: 30px, 0;
+  padding: auto;
+  text-align: right;
+
+}
+
+.exp {
+  margin-top: 15px;
+}
+
+
+
+
+.exp {
+  margin: 20px;
+
 }
