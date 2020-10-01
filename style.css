@@ -6,20 +6,21 @@ body {
   color: grey;
 }
 
-h1, .contact {
+h1,
+.contact {
   margin-bottom: 0px;
   text-align: right;
-
 }
 
 a {
   color: black;
 }
 
-
-h2, h3, b{
+h2,
+h3,
+b {
   color: black;
 }
-i{
+i {
   font-size: 14px;
 }
