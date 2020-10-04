@@ -12,6 +12,7 @@ body {
   min-width: 400px;
   color: rgb(126, 126, 126);
   background-color: rgb(238, 238, 238);
+  padding: 10%;
 }
 
 h2,
@@ -29,25 +30,26 @@ a {
 i {
   font-size: 14px;
 }
-p{
+
+p {
   margin-top: 0;
   margin-bottom: relative;
-  padding-top:0;
-  padding-bottom:
+  padding-top: 0;
+  font-size: 14px;
 }
+
 h1,
 .contact {
   text-align: right;
   margin: 0;
-  
+
 }
 
-h1{
+h1 {
   font-size: x-large;
 }
 
 .edu {
-  margin: 5%;
   float: left;
 }
 
